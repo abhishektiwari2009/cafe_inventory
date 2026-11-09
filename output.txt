@@ -1,0 +1,222 @@
+abhishekkumartiwari@abhisheks-MacBook-Air Java %  cd /Users/abhishekkumartiwari/Documents/Development/Java ; /usr/bin/env /Users/abhishek
+kumartiwari/.vscode/extensions/redhat.java-1.58.0-darwin-arm64/jre/25.0.4.1-macosx-aarch64/bin/java -XX:+ShowCodeDetailsInExceptionMessag
+es -cp /Users/abhishekkumartiwari/Library/Application\ Support/Code/User/workspaceStorage/64d04e109db943643509c6622ae65593/redhat.java/jd
+t_ws/Java_b6d990e5/bin Main 
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name:
+Table
+Price: 
+4000
+Quantity: 
+10
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name:
+Chair
+Price: 
+700
+Quantity: 
+40
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product Number: 
+1
+Quantity to add: 
+80
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+Table | RS 4000.0 | qty 90
+Chair | RS 700.0 | qty 40
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name:
+TV Unit
+Price: 
+0
+Quantity: 
+-3
+Enter valid price (greater than zero)
+Enter valid quantity (greater than zero)
+Price: 
+0
+Quantity: 
+0
+Enter valid price (greater than zero)
+Price: 
+800
+Quantity: 
+2
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+Table | RS 4000.0 | qty 90
+Chair | RS 700.0 | qty 40
+TV Unit | RS 800.0 | qty 2
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 3
+Total stock value of products is 389600.0
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 4
+Average price129866.66666666667
+Rounded down 129866
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product Number: 
+2
+Quantity to add: 
+50
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+Table | RS 4000.0 | qty 90
+Chair | RS 700.0 | qty 90
+TV Unit | RS 800.0 | qty 2
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product Number: 
+2
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+Table | RS 4000.0 | qty 90
+Chair | RS 700.0 | qty 90
+TV Unit | RS 800.0 | qty 2
+Chair (copy) | RS 700.0 | qty 90
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product Number: 
+8
+Quantity to add: 
+1
+Please verify product number,it should be between 1 and 4
+Product Number: 
+3
+Quantity to add: 
+90
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+Table | RS 4000.0 | qty 90
+Chair | RS 700.0 | qty 90
+TV Unit | RS 800.0 | qty 92
+Chair (copy) | RS 700.0 | qty 90
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 0
+Good bye!
